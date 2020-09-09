@@ -1,8 +1,8 @@
 # Customer-Churn-Timing-Model
 
-<p>
+
 <img src="https://miro.medium.com/max/3328/1*k0aH2ikjVKpXNOIDFKXdTg.png">
-<\p>
+
 
 ## NOTE: This project was completed as part of the course IEOR 4650 Business Analytics.
 
