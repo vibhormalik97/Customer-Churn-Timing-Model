@@ -1,5 +1,9 @@
 # Customer-Churn-Timing-Model
 
+<p>
+<img src="https://miro.medium.com/max/3328/1*k0aH2ikjVKpXNOIDFKXdTg.png">
+<\p>
+
 ## NOTE: This project was completed as part of the course IEOR 4650 Business Analytics.
 
 Customer attrition, also known as customer churn, customer turnover, or customer defection, is the loss of clients or customers. Telephone service companies, Internet service providers, pay-TV companies, insurance firms, and alarm monitoring services, often use customer attrition analysis and customer attrition rates as one of their key business metrics because the cost of retaining an existing customer is far less than acquiring a new one. 
